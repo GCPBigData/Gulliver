@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/_TwoHandedWeapon/Main.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 0
+    path: Assets/s1.unity
+    guid: 0f8874b9cefd8964f90a3d7c72934153
+  - enabled: 0
+    path: Assets/s2.unity
+    guid: 511605c4117d7a343931672e8f033522
+  - enabled: 0
+    path: Assets/s3.unity
+    guid: 55a2075b35a553b46991ab6f021e3bf6
+  - enabled: 0
+    path: Assets/s4.unity
+    guid: ea043c808ccb5b549846b95d2aac91ac
+  - enabled: 0
+    path: Assets/s5.unity
+    guid: 45ab7251ef1b2cc478328eaedf263f0a
+  - enabled: 0
+    path: Assets/s6.unity
+    guid: 22b9b19f1187e8b41a02bfc77a5de70b
+  - enabled: 0
+    path: Assets/s7.unity
+    guid: b07d10e48f6b556499928a12dff66f24
+  - enabled: 0
+    path: Assets/s8.unity
+    guid: 391b9f687d17b634bb994c529ec49fea
+  - enabled: 0
+    path: Assets/s9.unity
+    guid: 3553817a9794e594a814aa27ac815ef1
+  - enabled: 0
+    path: Assets/s10.unity
+    guid: 5cb5bc7ce7711aa4fbfa0a08f376c08e
+  - enabled: 0
+    path: Assets/s11.unity
+    guid: 3d08d443a5cce594eaf57e09ea69bafe
+  - enabled: 0
+    path: Assets/s12.unity
+    guid: 103251c325a3fb04d9143facc33f79fd
+  - enabled: 1
+    path: Assets/s13.unity
+    guid: b58f38fb5ee088a44bfc926a0a367f73
+  m_configObjects: {}
